@@ -1,3 +1,3 @@
-name :mala
+name :malamine
 age : 28
- favorite color : blue 
+ favorite color : red 
